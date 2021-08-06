@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sayan2511
+- 👋 Hi, I’m Sayan Banik
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning B.Tech in Electronics and Communication Engineering
 - 💞️ I’m looking to collaborate on ...
